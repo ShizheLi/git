@@ -6,4 +6,4 @@ Git is a free software distributed under the GPL.
 
 Git tracks changes of files.
 
-This is a dev branch.
+This is a feature branch.
